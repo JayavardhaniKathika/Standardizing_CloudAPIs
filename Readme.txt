@@ -1,3 +1,5 @@
+Vendor lock-in is a situation where a customer gets struck with a vendor and is unable to use services offered by another vendor. This is also known as proprietary lock-in. Also customers have to pay huge switching costs if they plan to move to another vendor, so to overcome those charges many customers continue with a single vendor even though their services are no longer efficient. In cloud computing vendor lock-in is caused due to the platform dependent services that the cloud providers offer. One solution to overcome this problem is to standardize the cloud APIs. By standardizing the APIs the user can access multiple APIs from different cloud providers through one standardized API call which prevents vendor lock-in. The main scope of this project is to design and implement a web server which provides results for various machine learning APIs by getting results from multiple clouds which offer that API.
+
 This project requires flask and postman.
 
 To setup the environment (Linux and mac)
